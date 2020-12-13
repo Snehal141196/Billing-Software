@@ -1,0 +1,13 @@
+	Welcome ShreeRam Retail
+Bill Number: 2895
+Customer Name: ewvv
+Phone Number: 32235
+=====================================
+ Products	QTY		Price
+=====================================
+ Bath Soap		1		40
+ Face Cream		1		120
+-------------------------------------
+ Cosmetic Tax			Rs. 8.0
+ Total Bill			 Rs. 168.0
+-------------------------------------

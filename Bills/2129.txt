@@ -1,0 +1,12 @@
+	Welcome ShreeRam Retail
+Bill Number: 2129
+Customer Name: ecwqfqw
+Phone Number: 231212
+=====================================
+ Products		QTY		Price
+=====================================
+ Coke		4		280
+-------------------------------------
+ Cold Drinks Tax			Rs. 14.0
+ Total Bill			 Rs. 294.0
+-------------------------------------
